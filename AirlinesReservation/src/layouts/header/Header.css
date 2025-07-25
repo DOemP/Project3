@@ -1,0 +1,122 @@
+header .container {
+    background-color: #222529;
+    color: white;
+    margin-bottom: 95px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+}
+
+.header_menu ul li a {
+    text-decoration: none;
+    color: white;
+
+    display: inline-block;
+    transition: all, 0.5s;
+}
+
+.header_menu ul li a:hover {
+    color: #8e85e6;
+}
+
+
+header {
+    max-height: 90px;
+    padding-top: 10px;
+    background: #222529;
+}
+
+.header_h {
+    background-color: #222529;
+    max-height: 95px;
+    position: fixed;
+    top: 0;
+    z-index: 6;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header .logo_web {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo_web img {
+    height: 40px;
+    max-width: 100%;
+}
+
+.header_menu ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+
+.header_menu ul li {
+    list-style: none;
+    margin-right: 66px;
+}
+
+.open1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.open1 p,
+.open1 button {
+    margin-right: 5px;
+}
+
+.logo_web {
+    padding: 17px;
+}
+
+.btn_login_signup {
+    border: none;
+    background-color: #2a2c38;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 95px;
+
+}
+
+.btn_login_signup a {
+    color: #8e85e6;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.btn_login_signup:hover {
+    background-color: #8e85e6;
+}
+
+.btn_login_signup:hover a {
+    color: white;
+    text-decoration: none;
+}
+
+.open1 {
+    padding: 15px;
+}
+
+.icon_login_signup {
+    padding-right: 5px;
+    margin-right: 5px;
+}
+
+.icon_search {
+    padding: 10px;
+}

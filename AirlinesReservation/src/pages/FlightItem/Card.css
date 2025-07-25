@@ -1,0 +1,15 @@
+.card {
+    background-color: #191b1d;
+    color: rgb(176, 176, 184);
+}
+.logo {
+    width: 30px;
+    height: auto;
+    margin-right: 10px;
+}
+.btn-primary {
+    background-color: rgb(11, 10, 18);
+}
+.whitetxt   {
+    color: white;
+}

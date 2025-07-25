@@ -1,0 +1,80 @@
+.seat-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flight-info {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.seat-map {
+    display: grid;
+    grid-template-columns: repeat(6, 50px);
+    gap: 10px;
+}
+
+.seat {
+    width: 50px;
+    height: 50px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.seat.available {
+    background-color: #4CAF50;
+}
+
+.seat.taken {
+    background-color: #f44336;
+    cursor: not-allowed;
+}
+
+.seat.selected {
+    background-color: #ffeb3b;
+}
+
+.selected-seats {
+    margin-top: 20px;
+}
+
+.seat-selector {
+    margin: 10px 0;
+}
+
+.seat-info {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.seat-info span {
+    margin: 5px 0;
+}
+
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}

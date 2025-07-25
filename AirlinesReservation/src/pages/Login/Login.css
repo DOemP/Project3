@@ -1,0 +1,51 @@
+.login-page {
+  height: 100vh;
+  background-color: #222529;
+}
+
+.login-container {
+  background-color: #191b1d;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+h2,
+.mb-4,
+label {
+  color: #fff;
+}
+
+p a,
+.forgot-pass {
+  color: #8e85e6;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+.form-control {
+  background-color: #222529;
+  border: 1px solid #5f5f68;
+  color: #bfc0c9;
+}
+
+.form-control:focus {
+  border-color: #5f5f68;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: #7289da;
+  border-color: #7289da;
+}
+
+.btn-primary:hover {
+  background-color: #677bc4;
+}
+
+.img-fluid {
+  padding: 10%;
+}

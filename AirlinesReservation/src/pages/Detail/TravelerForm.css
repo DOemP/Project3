@@ -1,0 +1,61 @@
+.ant-input,
+.ant-input-number,
+.ant-mentions,
+.ant-select-selector,
+.ant-cascader-picker,
+.ant-tree-select,
+.ant-picker {
+    background-color: #222529 !important;
+    border: 1px solid #5f5f68 !important;
+    color: #fff !important;
+}
+
+.traveler_form .ant-form-item-label>label {
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    color: #bfc0c9 !important;
+}
+
+.traveler_form .ant-select-selector .ant-select-selection-placeholder {
+    color: #bfc0c9 !important;
+}
+
+.traveler_form .ant-input::placeholder {
+    color: #bfc0c9 !important;
+}
+
+.traveler_form .ant-picker-input input::placeholder {
+    color: #bfc0c9 !important;
+}
+
+.traveler_form .ant-input-number input::placeholder {
+    color: #bfc0c9 !important;
+}
+
+
+.traveler_form .btn_col .ant-form-item-control {
+    min-width: 100% !important;
+}
+
+.traveler_form Button {
+    background-color: #5a5cf7 !important;
+    border: 1px solid #5f5f68 !important;
+    color: #fff !important;
+    min-width: 100% !important;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.7px;
+}
+
+.traveler_form .select_position {
+    padding: 8px;
+    border-radius: 25px;
+    background-color: transparent !important;
+    border: 1px solid #5f5f68 !important;
+    color: #bfc0c9 !important;
+    min-width: 100% !important;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.7px;
+    text-decoration: none;
+}

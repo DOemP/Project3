@@ -1,0 +1,42 @@
+.signup-page {
+  background-color: #222529;
+  min-height: 100vh;
+}
+
+.signup-container {
+  background-color: #191b1d;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+h2,
+p,
+.form-check-label {
+  color: #bfc0c9;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.form-control {
+  background-color: #222529;
+  border: 1px solid #5f5f68;
+  color: #bfc0c9;
+}
+
+.form-control:focus {
+  border-color: #5f5f68;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}

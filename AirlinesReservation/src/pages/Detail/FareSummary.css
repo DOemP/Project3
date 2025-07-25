@@ -1,0 +1,49 @@
+.flight_detail_section .fare_summary_wrap {
+    background-color: #2a2c31;
+    position: fixed;
+    width: 312px;
+}
+
+.flight_detail_section .fare_summary_wrap .fare_summary_item {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.flight_detail_section .fare_summary_wrap .fare_summary_item .card_body .fare_summary_item_title,
+.fare_summary_item_price {
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.25;
+    padding: 3px 0;
+}
+
+.flight_detail_section .fare_summary_wrap .card_footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem 1.25rem;
+    border-top: 1px solid #3a3c41;
+}
+
+.flight_detail_section .fare_summary_wrap .card_footer .fare_summary_item_title {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.flight_detail_section .fare_summary_wrap .card_footer .fare_summary_item_price {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.flight_detail_section .fare_summary_wrap .line {
+    position: relative;
+    margin: 1rem 0;
+    color: #85878a;
+    border: 0;
+    border-top: 1px solid;
+}
+
+.flight_detail_section .fare_summary_wrap .ant-input-number-input {
+    color: #fff !important;
+}

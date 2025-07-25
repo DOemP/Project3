@@ -1,0 +1,160 @@
+General container styles .container {
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styles */
+.header {
+    background-color: #006885;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.header .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .col-6 {
+    flex: 1;
+}
+
+/* Booking button styles */
+.booking {
+    text-align: right;
+}
+
+.booking button {
+    background-color: #ffffff;
+    border: none;
+    color: #006885;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.booking button:hover {
+    background-color: #f1f1f1;
+}
+
+/* Seating chart notes */
+.header_note {
+    font-weight: bold;
+}
+
+.note_item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.note_icon {
+    margin-right: 10px;
+}
+
+/* Seating chart styles */
+.plane-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-row {
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.header-row span {
+    margin-left: 54px;
+}
+
+.seat-row {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}
+
+.seats_all {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+}
+
+/* Seat styles */
+.seat {
+    padding: 8px 12px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.seat.available {
+    background-color: #3fba5e;
+    /* Green for available */
+}
+
+.seat.taken {
+    background-color: red;
+    /* Red for taken */
+    cursor: not-allowed;
+}
+
+.seat.selected {
+    background-color: #ffd700;
+    /* Yellow for selected */
+    border: 2px solid #ff9900;
+    /* Darker yellow border */
+}
+
+/* Footer styles */
+.footer_wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #d1d1d1;
+}
+
+.footer_wrap p {
+    margin: 5px 0;
+}
+
+.footer_wrap button {
+    margin-right: 90px;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #006885;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.footer_wrap button:hover {
+    background-color: #005f70;
+}
+
+.footer_wrap .col-6 {
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    .footer_wrap {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
