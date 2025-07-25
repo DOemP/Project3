@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# API\\gitBe\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\migrations\\20241019072923_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:migrations\\20241019072923_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\controllers\\seatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:controllers\\seatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\controllers\\flighttimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:controllers\\flighttimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\flighttimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\flighttimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\flighttimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\flighttimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\datactxt\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:datactxt\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\paymentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\paymentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\modeltransfer\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:modeltransfer\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|d:\\c# api\\gitbe\\api\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A737D-B82C-4BC6-AAC3-C2F186AC0B50}|BackEnd.csproj|solutionrelative:vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# API\\BackEnd\\Migrations\\20241005140826_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# API\\BackEnd\\Migrations\\20241001004915_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# API\\BackEnd\\Migrations\\20241001004239_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\UserDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\UserDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:32:04.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAgwAgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:00:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\ForgotPasswordDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\ForgotPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:57:53.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:33:50.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T02:39:55.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAI0BAAAAAAAAAAAmwIMBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:40:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\RegisterDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\RegisterDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:42:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightTimesController.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Controllers\\FlightTimesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightTimesController.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Controllers\\FlightTimesController.cs",
+              "RelativeToolTip": "Controllers\\FlightTimesController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwGUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:15:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\OrderDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\OrderDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:28:38.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:52:42.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241019072923_final.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Migrations\\20241019072923_final.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019072923_final.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Migrations\\20241019072923_final.cs",
+              "RelativeToolTip": "Migrations\\20241019072923_final.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowE8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:32:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeatsController.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Controllers\\SeatsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeatsController.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Controllers\\SeatsController.cs",
+              "RelativeToolTip": "Controllers\\SeatsController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAADgv5cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:43:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "Controllers\\FlightsController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:44:14.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Seats.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\Seats.cs",
+              "RelativeDocumentMoniker": "Models\\Seats.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\Seats.cs",
+              "RelativeToolTip": "Models\\Seats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:25:44.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:49:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlightTimeDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\FlightTimeDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\FlightTimeDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\FlightTimeDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\FlightTimeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:14:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\LoginDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\LoginDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:52:50.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwEsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:39:09.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlightTimes.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\FlightTimes.cs",
+              "RelativeDocumentMoniker": "Models\\FlightTimes.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\FlightTimes.cs",
+              "RelativeToolTip": "Models\\FlightTimes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:13:58.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\ResetPasswordDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\ResetPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:52:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeatDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\SeatDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\SeatDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\SeatDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\SeatDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:52:58.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Flight.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\Flight.cs",
+              "RelativeToolTip": "Models\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:36:53.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:09:31.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\DataCtxt\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataCtxt\\DataContext.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\DataCtxt\\DataContext.cs",
+              "RelativeToolTip": "DataCtxt\\DataContext.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:47:52.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\TicketDTO.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\TicketDTO.cs",
+              "RelativeToolTip": "ModelTransfer\\TicketDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:16:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BackEnd.csproj",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\BackEnd.csproj",
+              "RelativeDocumentMoniker": "BackEnd.csproj",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\BackEnd.csproj",
+              "RelativeToolTip": "BackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T01:33:52.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T13:49:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:18:52.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BackEnd.http",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\BackEnd.http",
+              "RelativeDocumentMoniker": "BackEnd.http",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\BackEnd.http",
+              "RelativeToolTip": "BackEnd.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T02:34:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\PaymentDto.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\PaymentDto.cs",
+              "RelativeToolTip": "ModelTransfer\\PaymentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:03:58.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentDetailsDto.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\PaymentDetailsDto.cs",
+              "RelativeDocumentMoniker": "ModelTransfer\\PaymentDetailsDto.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\ModelTransfer\\PaymentDetailsDto.cs",
+              "RelativeToolTip": "ModelTransfer\\PaymentDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:04:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\C# API\\gitBe\\Api\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "VnPayLibrary.cs",
+              "ToolTip": "D:\\C# API\\gitBe\\Api\\VnPayLibrary.cs",
+              "RelativeToolTip": "VnPayLibrary.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:57:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241005140826_init.cs",
+              "DocumentMoniker": "D:\\C# API\\BackEnd\\Migrations\\20241005140826_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\BackEnd\\Migrations\\20241005140826_init.cs",
+              "ToolTip": "D:\\C# API\\BackEnd\\Migrations\\20241005140826_init.cs",
+              "RelativeToolTip": "..\\..\\BackEnd\\Migrations\\20241005140826_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:08:26.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241001004915_v.cs",
+              "DocumentMoniker": "D:\\C# API\\BackEnd\\Migrations\\20241001004915_v.cs",
+              "RelativeDocumentMoniker": "..\\..\\BackEnd\\Migrations\\20241001004915_v.cs",
+              "ToolTip": "D:\\C# API\\BackEnd\\Migrations\\20241001004915_v.cs",
+              "RelativeToolTip": "..\\..\\BackEnd\\Migrations\\20241001004915_v.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:49:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241001004239_v0.cs",
+              "DocumentMoniker": "D:\\C# API\\BackEnd\\Migrations\\20241001004239_v0.cs",
+              "RelativeDocumentMoniker": "..\\..\\BackEnd\\Migrations\\20241001004239_v0.cs",
+              "ToolTip": "D:\\C# API\\BackEnd\\Migrations\\20241001004239_v0.cs",
+              "RelativeToolTip": "..\\..\\BackEnd\\Migrations\\20241001004239_v0.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:42:40.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

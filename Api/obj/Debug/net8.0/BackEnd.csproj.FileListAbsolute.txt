@@ -1,0 +1,1080 @@
+D:\C# API\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+D:\C# API\BackEnd\bin\Debug\net8.0\appsettings.json
+D:\C# API\BackEnd\bin\Debug\net8.0\libman.json
+D:\C# API\BackEnd\bin\Debug\net8.0\BackEnd.exe
+D:\C# API\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+D:\C# API\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+D:\C# API\BackEnd\bin\Debug\net8.0\BackEnd.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+D:\C# API\BackEnd\bin\Debug\net8.0\Azure.Core.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Google.Protobuf.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Humanizer.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Build.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\MySql.Data.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\MySqlConnector.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.Common.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.CodeDom.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Text.Json.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# API\BackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+D:\C# API\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# API\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.dll
+D:\C# API\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+D:\C# API\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+D:\C# API\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+D:\Github\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Github\Api\bin\Debug\net8.0\appsettings.json
+D:\Github\Api\bin\Debug\net8.0\libman.json
+D:\Github\Api\bin\Debug\net8.0\BackEnd.exe
+D:\Github\Api\bin\Debug\net8.0\BackEnd.deps.json
+D:\Github\Api\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+D:\Github\Api\bin\Debug\net8.0\BackEnd.dll
+D:\Github\Api\bin\Debug\net8.0\BackEnd.pdb
+D:\Github\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Github\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Github\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Github\Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Github\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Github\Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Github\Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Github\Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Github\Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Github\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Github\Api\bin\Debug\net8.0\MySql.Data.dll
+D:\Github\Api\bin\Debug\net8.0\MySqlConnector.dll
+D:\Github\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.Common.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Github\Api\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Github\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Github\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Github\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Github\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Github\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Github\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Github\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Github\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Github\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Github\Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Github\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Github\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Github\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Github\Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\Github\Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Github\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Github\Api\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+D:\Github\Api\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Api\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+D:\Github\Api\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+D:\Github\Api\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\Github\Api\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\Api\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\Api\obj\Debug\net8.0\BackEnd.sourcelink.json
+D:\Github\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+D:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+D:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+D:\Github\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github\Api\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+D:\Github\Api\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+D:\Github\Api\obj\Debug\net8.0\BackEnd.dll
+D:\Github\Api\obj\Debug\net8.0\refint\BackEnd.dll
+D:\Github\Api\obj\Debug\net8.0\BackEnd.pdb
+D:\Github\Api\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+D:\Github\Api\obj\Debug\net8.0\ref\BackEnd.dll
+E:\Github\Api\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+E:\Github\Api\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Api\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+E:\Github\Api\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+E:\Github\Api\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+E:\Github\Api\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\Github\Api\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\Api\obj\Debug\net8.0\BackEnd.sourcelink.json
+E:\Github\Api\obj\Debug\net8.0\BackEnd.dll
+E:\Github\Api\obj\Debug\net8.0\refint\BackEnd.dll
+E:\Github\Api\obj\Debug\net8.0\BackEnd.pdb
+E:\Github\Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Github\Api\bin\Debug\net8.0\libman.json
+E:\Github\Api\bin\Debug\net8.0\appsettings.json
+E:\Github\Api\bin\Debug\net8.0\BackEnd.exe
+E:\Github\Api\bin\Debug\net8.0\BackEnd.deps.json
+E:\Github\Api\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+E:\Github\Api\bin\Debug\net8.0\BackEnd.dll
+E:\Github\Api\bin\Debug\net8.0\BackEnd.pdb
+E:\Github\Api\bin\Debug\net8.0\Azure.Core.dll
+E:\Github\Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\Github\Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Github\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Github\Api\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Github\Api\bin\Debug\net8.0\Humanizer.dll
+E:\Github\Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Github\Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Github\Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Github\Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Github\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Github\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Github\Api\bin\Debug\net8.0\MySql.Data.dll
+E:\Github\Api\bin\Debug\net8.0\MySqlConnector.dll
+E:\Github\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.Common.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Github\Api\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Github\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Github\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Github\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Github\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Github\Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\Github\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Github\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Github\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Github\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Github\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Github\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Github\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Github\Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Github\Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Github\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Github\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Github\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Github\Api\bin\Debug\net8.0\ZstdSharp.dll
+E:\Github\Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Github\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\Github\Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Github\Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+E:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+E:\Github\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+E:\Github\Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Github\Api\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+E:\Github\Api\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+E:\Github\Api\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+E:\Github\Api\obj\Debug\net8.0\ref\BackEnd.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\C# API\gitBe\Api\bin\Debug\net8.0\appsettings.json
+D:\C# API\gitBe\Api\bin\Debug\net8.0\libman.json
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BackEnd.exe
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BackEnd.deps.json
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BackEnd.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BackEnd.pdb
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Humanizer.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Build.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\MySql.Data.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\MySqlConnector.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.Common.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# API\gitBe\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.sourcelink.json
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+D:\C# API\gitBe\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# API\gitBe\Api\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.dll
+D:\C# API\gitBe\Api\obj\Debug\net8.0\refint\BackEnd.dll
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.pdb
+D:\C# API\gitBe\Api\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+D:\C# API\gitBe\Api\obj\Debug\net8.0\ref\BackEnd.dll
+D:\Github\Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
